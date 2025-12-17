@@ -1,0 +1,30 @@
+body
+{
+    margin: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.avatar
+{
+    width: 150px;
+}
+
+.card
+{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+    background: rgb(106, 171, 163);
+    color: rgb(31, 31, 31);
+    border-bottom: 6px solid rgb(211, 181, 105);
+}
+
+.border-blue
+{
+    border: 1px dotted blue;
+}

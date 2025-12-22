@@ -1,0 +1,29 @@
+body
+{
+    margin: 0;
+    background-image: url("images/Nature.jpg");
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.btn
+{
+    padding: 6px 12px;
+    background: rgba(251, 213, 40, 0.5);
+    border: none;
+    border-radius: 5%;
+    font-family: inherit;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.underline
+{
+    border-bottom: 2px solid  rgba(251, 213, 40);
+}
+
+#main-logo
+{
+    width: 150px;
+}

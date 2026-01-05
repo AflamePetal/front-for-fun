@@ -1,2 +1,3 @@
 # Overview
-".html" files of each webpage of these small projects are provided
+Small webpage projects showcasing different HTML & CSS tricks.
+These are based on freecodecamp tutorials.
